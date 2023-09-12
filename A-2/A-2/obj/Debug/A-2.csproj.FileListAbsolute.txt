@@ -1,0 +1,17 @@
+C:\12 Sep\A-2\A-2\bin\Debug\NUnit3.TestAdapter.dll
+C:\12 Sep\A-2\A-2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\12 Sep\A-2\A-2\bin\Debug\nunit.engine.dll
+C:\12 Sep\A-2\A-2\bin\Debug\nunit.engine.api.dll
+C:\12 Sep\A-2\A-2\bin\Debug\nunit.engine.core.dll
+C:\12 Sep\A-2\A-2\bin\Debug\testcentric.engine.metadata.dll
+C:\12 Sep\A-2\A-2\bin\Debug\A-2.exe.config
+C:\12 Sep\A-2\A-2\bin\Debug\A-2.exe
+C:\12 Sep\A-2\A-2\bin\Debug\A-2.pdb
+C:\12 Sep\A-2\A-2\bin\Debug\nunit.framework.dll
+C:\12 Sep\A-2\A-2\bin\Debug\nunit.framework.xml
+C:\12 Sep\A-2\A-2\obj\Debug\A-2.csproj.AssemblyReference.cache
+C:\12 Sep\A-2\A-2\obj\Debug\A-2.csproj.SuggestedBindingRedirects.cache
+C:\12 Sep\A-2\A-2\obj\Debug\A-2.csproj.CoreCompileInputs.cache
+C:\12 Sep\A-2\A-2\obj\Debug\A-2.csproj.CopyComplete
+C:\12 Sep\A-2\A-2\obj\Debug\A-2.exe
+C:\12 Sep\A-2\A-2\obj\Debug\A-2.pdb
